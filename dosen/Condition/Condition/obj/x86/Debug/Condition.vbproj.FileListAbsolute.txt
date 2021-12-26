@@ -1,0 +1,9 @@
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\bin\Debug\Condition.exe
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\bin\Debug\Condition.pdb
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\bin\Debug\Condition.xml
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\obj\x86\Debug\Condition.Form1.resources
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\obj\x86\Debug\Condition.Resources.resources
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\obj\x86\Debug\Condition.vbproj.GenerateResource.Cache
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\obj\x86\Debug\Condition.exe
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\obj\x86\Debug\Condition.xml
+D:\Arif Lazuardi\2017\VBMalam\Condition\Condition\obj\x86\Debug\Condition.pdb

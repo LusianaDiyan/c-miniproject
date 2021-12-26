@@ -1,0 +1,15 @@
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\bin\Debug\8817300013_Lusiana.exe
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\bin\Debug\8817300013_Lusiana.pdb
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\bin\Debug\8817300013_Lusiana.xml
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\_8817300013_Lusiana.Resources.resources
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\8817300013_Lusiana.exe
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\8817300013_Lusiana.xml
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\8817300013_Lusiana.pdb
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\_8817300013_Lusiana.FormSegi4.resources
+D:\Kelas C\8817300013_Lusiana\8817300013_Lusiana\obj\x86\Debug\_8817300013_Lusiana.FormLooping.resources
+D:\Visual Studio Project\8817300013_LUSIANA DIYAN NINGRUM_Kelas A_VB.Net\8817300013_Lusiana\obj\x86\Debug\8817300013_Lusiana.exe
+D:\Visual Studio Project\8817300013_LUSIANA DIYAN NINGRUM_Kelas A_VB.Net\8817300013_Lusiana\obj\x86\Debug\8817300013_Lusiana.xml
+D:\Visual Studio Project\8817300013_LUSIANA DIYAN NINGRUM_Kelas A_VB.Net\8817300013_Lusiana\obj\x86\Debug\8817300013_Lusiana.pdb

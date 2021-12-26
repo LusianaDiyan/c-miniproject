@@ -1,0 +1,12 @@
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Visual Studio Project\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Visual Studio Project\Kalkulator Toko\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Visual Studio Project\Kalkulator Toko\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Visual Studio Project\Kalkulator Toko\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

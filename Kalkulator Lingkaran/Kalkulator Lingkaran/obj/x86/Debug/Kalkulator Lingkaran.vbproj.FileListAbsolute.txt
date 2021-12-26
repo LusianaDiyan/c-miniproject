@@ -1,0 +1,9 @@
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\bin\Debug\Kalkulator Lingkaran.exe
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\bin\Debug\Kalkulator Lingkaran.pdb
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\bin\Debug\Kalkulator Lingkaran.xml
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\obj\x86\Debug\Kalkulator_Lingkaran.Form1.resources
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\obj\x86\Debug\Kalkulator_Lingkaran.Resources.resources
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\obj\x86\Debug\Kalkulator Lingkaran.vbproj.GenerateResource.Cache
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\obj\x86\Debug\Kalkulator Lingkaran.exe
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\obj\x86\Debug\Kalkulator Lingkaran.xml
+D:\Visual Studio Project\Kalkulator Lingkaran\Kalkulator Lingkaran\obj\x86\Debug\Kalkulator Lingkaran.pdb

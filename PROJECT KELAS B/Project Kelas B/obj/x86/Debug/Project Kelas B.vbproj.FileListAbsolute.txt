@@ -1,0 +1,67 @@
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\bin\Debug\Project Kelas B.exe
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\bin\Debug\Project Kelas B.pdb
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\bin\Debug\Project Kelas B.xml
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.FormuTAMA.resources
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Resources.resources
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.vbproj.GenerateResource.Cache
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.exe
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.xml
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.pdb
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form2.resources
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form3.resources
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.form4.resources
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form5.resources
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form6.resources
+D:\WENNY P Kelas B\VISUAL BASIC\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form7.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.exe
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.xml
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.pdb
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.vbprojResolveAssemblyReference.cache
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.FormUtama.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form10.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form2.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form3.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.form4.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form5.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form6.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form7.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form8.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form9.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Resources.resources
+I:\Project Kelas B\Project Kelas B\obj\x86\Debug\Project Kelas B.vbproj.GenerateResource.Cache
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.exe
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.xml
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.pdb
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.vbprojResolveAssemblyReference.cache
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.FormUtama.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form2.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form3.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.form4.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form5.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form6.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form7.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form8.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form9.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Resources.resources
+D:\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.vbproj.GenerateResource.Cache
+D:\PROJECT KELAS B\Project Kelas B\bin\Debug\Project Kelas B.exe
+D:\PROJECT KELAS B\Project Kelas B\bin\Debug\Project Kelas B.pdb
+D:\PROJECT KELAS B\Project Kelas B\bin\Debug\Project Kelas B.xml
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.exe
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.xml
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.pdb
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\bin\Debug\Project Kelas B.exe
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\bin\Debug\Project Kelas B.pdb
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\bin\Debug\Project Kelas B.xml
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.vbprojResolveAssemblyReference.cache
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.FormUtama.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form2.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form3.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.form4.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form5.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form6.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form7.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form8.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Form9.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project_Kelas_B.Resources.resources
+D:\Visual Studio Project\PROJECT KELAS B\Project Kelas B\obj\x86\Debug\Project Kelas B.vbproj.GenerateResource.Cache

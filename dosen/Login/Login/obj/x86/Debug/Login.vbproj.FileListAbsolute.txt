@@ -1,0 +1,9 @@
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\bin\Debug\Login.exe
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\bin\Debug\Login.pdb
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\bin\Debug\Login.xml
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\obj\x86\Debug\Login.frmLogin.resources
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\obj\x86\Debug\Login.Resources.resources
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\obj\x86\Debug\Login.vbproj.GenerateResource.Cache
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\obj\x86\Debug\Login.exe
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\obj\x86\Debug\Login.xml
+D:\Arif Lazuardi\2017\VBMalam\Login\Login\obj\x86\Debug\Login.pdb

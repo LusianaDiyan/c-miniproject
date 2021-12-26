@@ -1,0 +1,9 @@
+D:\Visual Studio Project\Biodata\Biodata\bin\Debug\Biodata.exe
+D:\Visual Studio Project\Biodata\Biodata\bin\Debug\Biodata.pdb
+D:\Visual Studio Project\Biodata\Biodata\bin\Debug\Biodata.xml
+D:\Visual Studio Project\Biodata\Biodata\obj\x86\Debug\Biodata.FormBiodata.resources
+D:\Visual Studio Project\Biodata\Biodata\obj\x86\Debug\Biodata.Resources.resources
+D:\Visual Studio Project\Biodata\Biodata\obj\x86\Debug\Biodata.vbproj.GenerateResource.Cache
+D:\Visual Studio Project\Biodata\Biodata\obj\x86\Debug\Biodata.exe
+D:\Visual Studio Project\Biodata\Biodata\obj\x86\Debug\Biodata.xml
+D:\Visual Studio Project\Biodata\Biodata\obj\x86\Debug\Biodata.pdb

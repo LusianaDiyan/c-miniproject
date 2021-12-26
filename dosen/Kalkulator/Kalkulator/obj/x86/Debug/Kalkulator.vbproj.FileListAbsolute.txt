@@ -1,0 +1,12 @@
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Form1.resources
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Resources.resources
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.vbproj.GenerateResource.Cache
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.xml
+D:\Arif Lazuardi\2017\VBMalam\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+D:\Visual Studio Project\dosen\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+D:\Visual Studio Project\dosen\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.xml
+D:\Visual Studio Project\dosen\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb

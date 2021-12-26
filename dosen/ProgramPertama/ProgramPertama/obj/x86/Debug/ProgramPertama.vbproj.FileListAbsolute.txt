@@ -1,0 +1,18 @@
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\bin\Debug\ProgramPertama.exe
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\bin\Debug\ProgramPertama.pdb
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\bin\Debug\ProgramPertama.xml
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.FormUtama.resources
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.Resources.resources
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.vbproj.GenerateResource.Cache
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.exe
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.xml
+D:\Arif Lazuardi\2017\VB\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.pdb
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.exe
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.xml
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.pdb
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\bin\Debug\ProgramPertama.exe
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\bin\Debug\ProgramPertama.pdb
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\bin\Debug\ProgramPertama.xml
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.FormUtama.resources
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.Resources.resources
+D:\Visual Studio Project\dosen\ProgramPertama\ProgramPertama\obj\x86\Debug\ProgramPertama.vbproj.GenerateResource.Cache

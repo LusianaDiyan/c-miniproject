@@ -1,0 +1,18 @@
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\bin\Debug\Variabel.exe
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\bin\Debug\Variabel.pdb
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\bin\Debug\Variabel.xml
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\obj\x86\Debug\Variabel.Form1.resources
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\obj\x86\Debug\Variabel.Resources.resources
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\obj\x86\Debug\Variabel.vbproj.GenerateResource.Cache
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\obj\x86\Debug\Variabel.exe
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\obj\x86\Debug\Variabel.xml
+D:\Arif Lazuardi\2017\VBMalam\Variabel\Variabel\obj\x86\Debug\Variabel.pdb
+D:\Visual Studio Project\dosen\Variabel\Variabel\obj\x86\Debug\Variabel.exe
+D:\Visual Studio Project\dosen\Variabel\Variabel\obj\x86\Debug\Variabel.xml
+D:\Visual Studio Project\dosen\Variabel\Variabel\obj\x86\Debug\Variabel.pdb
+D:\Visual Studio Project\dosen\Variabel\Variabel\bin\Debug\Variabel.exe
+D:\Visual Studio Project\dosen\Variabel\Variabel\bin\Debug\Variabel.pdb
+D:\Visual Studio Project\dosen\Variabel\Variabel\bin\Debug\Variabel.xml
+D:\Visual Studio Project\dosen\Variabel\Variabel\obj\x86\Debug\Variabel.Form1.resources
+D:\Visual Studio Project\dosen\Variabel\Variabel\obj\x86\Debug\Variabel.Resources.resources
+D:\Visual Studio Project\dosen\Variabel\Variabel\obj\x86\Debug\Variabel.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+D:\Visual Studio Project\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb

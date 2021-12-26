@@ -1,0 +1,24 @@
+D:\VB NET KELAS B\Rental\Rental\bin\Debug\Rental.exe
+D:\VB NET KELAS B\Rental\Rental\bin\Debug\Rental.pdb
+D:\VB NET KELAS B\Rental\Rental\bin\Debug\Rental.xml
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.Resources.resources
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.vbproj.GenerateResource.Cache
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.exe
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.xml
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.pdb
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.Form1.resources
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.FormVariabel.resources
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.Form2.resources
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.Form3.resources
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.Form4.resources
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.Form5.resources
+D:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.Form6.resources
+E:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.exe
+E:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.xml
+E:\VB NET KELAS B\Rental\Rental\obj\x86\Debug\Rental.pdb
+D:\Rental\obj\x86\Debug\Rental.exe
+D:\Rental\obj\x86\Debug\Rental.xml
+D:\Rental\obj\x86\Debug\Rental.pdb
+D:\Visual Studio Project\Rental\obj\x86\Debug\Rental.exe
+D:\Visual Studio Project\Rental\obj\x86\Debug\Rental.xml
+D:\Visual Studio Project\Rental\obj\x86\Debug\Rental.pdb

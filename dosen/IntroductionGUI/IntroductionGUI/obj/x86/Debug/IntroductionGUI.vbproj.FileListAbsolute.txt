@@ -1,0 +1,18 @@
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\bin\Debug\IntroductionGUI.exe
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\bin\Debug\IntroductionGUI.pdb
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\bin\Debug\IntroductionGUI.xml
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.Form1.resources
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.Resources.resources
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.vbproj.GenerateResource.Cache
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.exe
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.xml
+D:\Arif Lazuardi\2017\VBMalam\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.pdb
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.exe
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.xml
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.pdb
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\bin\Debug\IntroductionGUI.exe
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\bin\Debug\IntroductionGUI.pdb
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\bin\Debug\IntroductionGUI.xml
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.Form1.resources
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.Resources.resources
+D:\Visual Studio Project\dosen\IntroductionGUI\IntroductionGUI\obj\x86\Debug\IntroductionGUI.vbproj.GenerateResource.Cache

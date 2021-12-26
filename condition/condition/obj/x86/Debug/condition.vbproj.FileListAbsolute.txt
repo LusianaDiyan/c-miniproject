@@ -1,0 +1,23 @@
+D:\LUSI KELAS A\condition\condition\bin\Debug\condition.exe
+D:\LUSI KELAS A\condition\condition\bin\Debug\condition.pdb
+D:\LUSI KELAS A\condition\condition\bin\Debug\condition.xml
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\condition.Form1.resources
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\condition.Resources.resources
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\condition.exe
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\condition.xml
+D:\LUSI KELAS A\condition\condition\obj\x86\Debug\condition.pdb
+H:\condition\condition\obj\x86\Debug\condition.exe
+H:\condition\condition\obj\x86\Debug\condition.xml
+H:\condition\condition\obj\x86\Debug\condition.pdb
+H:\condition\condition\bin\Debug\condition.exe
+H:\condition\condition\bin\Debug\condition.pdb
+H:\condition\condition\bin\Debug\condition.xml
+H:\condition\condition\obj\x86\Debug\condition.Form1.resources
+H:\condition\condition\obj\x86\Debug\condition.Resources.resources
+H:\condition\condition\obj\x86\Debug\condition.vbproj.GenerateResource.Cache
+D:\Visual Studio Project\condition\condition\obj\x86\Debug\condition.exe
+D:\Visual Studio Project\condition\condition\obj\x86\Debug\condition.xml
+D:\Visual Studio Project\condition\condition\obj\x86\Debug\condition.pdb

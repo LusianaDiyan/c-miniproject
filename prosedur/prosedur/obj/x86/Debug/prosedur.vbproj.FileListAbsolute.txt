@@ -1,0 +1,12 @@
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\bin\Debug\prosedur.exe
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\bin\Debug\prosedur.pdb
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\bin\Debug\prosedur.xml
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\obj\x86\Debug\prosedur.Form1.resources
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\obj\x86\Debug\prosedur.Resources.resources
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\obj\x86\Debug\prosedur.vbproj.GenerateResource.Cache
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\obj\x86\Debug\prosedur.exe
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\obj\x86\Debug\prosedur.xml
+C:\Users\papsi2\AppData\Local\Temporary Projects\prosedur\obj\x86\Debug\prosedur.pdb
+D:\Visual Studio Project\prosedur\prosedur\obj\x86\Debug\prosedur.exe
+D:\Visual Studio Project\prosedur\prosedur\obj\x86\Debug\prosedur.xml
+D:\Visual Studio Project\prosedur\prosedur\obj\x86\Debug\prosedur.pdb
